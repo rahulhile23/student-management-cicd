@@ -1,7 +1,7 @@
 # Agile Project Plan: Student Management System
 
 **Course:** Agile Software Development | **FA2** | B.Tech Final Year IT, PCCOE
-**Team:** Rahul Hile (Roll No: 123B1F031) and <Soham Madrewar> (Roll No: 123F055)
+**Team:** Rahul Hile (Roll No: 123B1F031) and Soham Madrewar (Roll No: 123F055)
 **Tools:** Python, GitHub, GitHub Actions
 
 ## 1. Product Vision
